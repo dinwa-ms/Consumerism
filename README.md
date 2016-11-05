@@ -1,4 +1,7 @@
 # Consumerism
+
+This project is for the Vandy Hack Night (11/03/2017). Won the 3rd prize.
+
 Written in Processing. Try to eat up all the other circles (including your partner's)
 
 For 1 PLAYER MODE, you can use either mouse of "W, A, S, D" to control.
