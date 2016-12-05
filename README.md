@@ -12,3 +12,6 @@ Pressed "B" for the bomb.
 You can change your avatar by replace player picture.
 
 Enjoy the bgms from classic NES games.
+
+##Screen shots
+
