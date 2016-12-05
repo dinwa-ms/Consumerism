@@ -14,4 +14,7 @@ You can change your avatar by replace player picture.
 Enjoy the bgms from classic NES games.
 
 ##Screen shots
-
+![Alt text](/screen shot/Screen Shot 2016-11-23 at 9.54.52 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Screen Shot 2016-11-23 at 9.55.12 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Screen Shot 2016-11-23 at 9.56.27 PM.png?raw=true "Optional Title")
+![Alt text](/screen shot/Screen Shot 2016-11-23 at 9.56.02 PM.png?raw=true "Optional Title")
